@@ -4,3 +4,7 @@ sqlalchemy
 psycopg2-binary
 supabase
 pydantic-settings
+fastapi
+uvicorn
+scikit-learn
+scikit-surprise
