@@ -1,0 +1,6 @@
+# requirements.txt
+pandas
+sqlalchemy
+psycopg2-binary
+supabase
+pydantic-settings
