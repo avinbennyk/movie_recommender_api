@@ -9,3 +9,6 @@ uvicorn
 scikit-learn
 scikit-surprise
 vaderSentiment
+streamlit
+requests
+streamlit-cookies-manager
